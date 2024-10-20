@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\skazr\\.nuget\\packages\\": {}
+    "C:\\Users\\jawad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skazr\\source\\repos\\Astronomical-Processing\\Astronomical-Processing..csproj",
+      "projectUniqueName": "C:\\Users\\jawad\\OneDrive\\Desktop\\Sprint One\\Astronomical-Processing\\Astronomical-Processing\\Astronomical-Processing..csproj",
       "projectName": "Astronomical-Processing.",
-      "projectPath": "C:\\Users\\skazr\\source\\repos\\Astronomical-Processing\\Astronomical-Processing..csproj",
-      "packagesPath": "C:\\Users\\skazr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skazr\\source\\repos\\Astronomical-Processing\\obj\\",
+      "projectPath": "C:\\Users\\jawad\\OneDrive\\Desktop\\Sprint One\\Astronomical-Processing\\Astronomical-Processing\\Astronomical-Processing..csproj",
+      "packagesPath": "C:\\Users\\jawad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jawad\\OneDrive\\Desktop\\Sprint One\\Astronomical-Processing\\Astronomical-Processing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\skazr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jawad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
